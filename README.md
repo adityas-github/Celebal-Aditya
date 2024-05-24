@@ -18,7 +18,7 @@ This is a React application hosted on Netlify.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/adityas-github/Celebal-Aditya.git
 cd repository
 ```
 
