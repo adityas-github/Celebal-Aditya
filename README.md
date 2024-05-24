@@ -7,6 +7,7 @@ This is a React application hosted on Netlify.
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [ScreenShot][screenshot]
 - [Deployment](#deployment)
 - [Accessing the Deployed App](#accessing-the-deployed-app)
 - [Troubleshooting](#troubleshooting)
@@ -34,6 +35,19 @@ To start the development server:
 ```bash
 npm start
 ```
+## Screenshot
+### First Page
+![First Page](first_page.png)
+
+### End Page
+![End Page](end_page.png)
+
+### Empty Field Handling
+![Empty Field Handling](empty_field_handling.png)
+
+### Final Output
+![Final Output](final_output.png)
+
 
 Open your browser and navigate to `http://localhost:3000` to see the app.
 
